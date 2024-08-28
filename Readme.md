@@ -26,7 +26,7 @@ The QR Code-Based Attendance System is a robust attendance management solution d
 
 ## Live Demo
 
-Check out the live demo of the project [here](your_live_demo_url).
+Check out the live demo of the project [here](https://sagarbhoi.in/project-demos/qr-code-attendance-system/).
 
 ## Technologies Used
 
@@ -46,7 +46,7 @@ Check out the live demo of the project [here](your_live_demo_url).
 ### Steps:
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/qr-code-attendance-system.git
+    git clone https://github.com/SagarBhoi404/qr-code-attendance-system.git
     cd qr-code-attendance-system
     ```
 
